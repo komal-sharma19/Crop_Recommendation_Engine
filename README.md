@@ -77,9 +77,10 @@ python app.py
 
 Access the web interface at http://localhost:5000
 Enter the required parameters and click "Predict"
-
+![image alt](https://github.com/komal-sharma19/Crop-Prediction/blob/main/crop%20prediction.png?raw=true)
 # Notes:
 
 Ensure all input values are within realistic agricultural ranges
 The model is trained on specific regional crop data
 For best results, provide accurate soil test results and meteorological data
+
