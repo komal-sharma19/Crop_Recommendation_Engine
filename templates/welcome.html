@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome - Crop Recommender</title>
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #1a202c;
+            background-image: url('static/farmland.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        .welcome-container {
+            background-color: rgba(45, 55, 72, 0.85);
+            backdrop-filter: blur(4px);
+        }
+    </style>
+</head>
+<body class="min-h-screen flex items-center justify-center p-4">
+
+    <div id="welcome-page" class="welcome-container rounded-xl shadow-2xl p-8 max-w-5xl w-full mx-auto my-8 md:p-12 h-96 md:h-2/3 lg:h-3/4 flex flex-col justify-center text-center relative text-white">
+        <div class="relative z-10">
+            <h1 class="text-5xl md:text-6xl font-extrabold mb-4">
+                Welcome to the Crop Recommender
+            </h1>
+            <p class="text-lg mb-8">
+                Get personalized crop recommendations based on your soil data.
+            </p>
+            <a href="/recommend" class="bg-green-500 text-white font-bold py-3 px-8 rounded-full hover:bg-green-600 transition-colors duration-300 transform hover:scale-105 inline-block">
+                Start Recommendation
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>
