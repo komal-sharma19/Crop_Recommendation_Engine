@@ -147,4 +147,4 @@ Crop_Recommendation/
 ![Welcome Page]([static/screenshots/welcome.png](https://github.com/komal-sharma19/Crop_Recommendation_Engine/blob/main/Welcome.png?raw=true))  
 
 ### 🌾 Prediction Form & Result  
-![Prediction Result](static/screenshots/result.png)  
+![Prediction Result]([static/screenshots/result.png](https://github.com/komal-sharma19/Crop_Recommendation_Engine/blob/main/Prediction.png?raw=true))  
