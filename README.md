@@ -144,7 +144,7 @@ Crop_Recommendation/
 ## 📸 Screenshots  
 
 ### 🌱 Welcome Page  
-![Welcome Page](static/screenshots/welcome.png)  
+![Welcome Page](Welcome.png)  
 
 ### 🌾 Prediction Form & Result  
-![Prediction Result](static/screenshots/result.png)  
+![Prediction Result](Prediction.png)  
