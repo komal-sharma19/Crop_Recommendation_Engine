@@ -147,4 +147,4 @@ Crop_Recommendation/
 ![Welcome Page](Welcome.png)  
 
 ### 🌾 Prediction Form & Result  
-![Prediction Result](Predction.png)  
+![Prediction Result](Prediction.png)  
